@@ -4,7 +4,6 @@
 #define fastread ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 #define openfile ifstream cin; ofstream cout; cin.open("input.txt"); cout.open("output.txt");
 #define f(i, x, y) for(int i = x; i < y; i++)
-#define all(X) X.begin(), X.end()
 #define int long long
 #define ll long long
 #define key pair<int, int>
